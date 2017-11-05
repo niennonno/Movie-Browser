@@ -9,4 +9,4 @@
 import UIKit
 
 let _API_KEY = "6e18dfb03a38baad0a979936bd6acfd9"
-let 
+let _IMAGE_BASE_URL = "https://image.tmdb.org/t/p/original"
